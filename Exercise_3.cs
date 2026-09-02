@@ -9,7 +9,7 @@ class exercise_3
          //bai1();
          //bai2();
          //bai3();
-         bai4();
+         //bai4();
         } 
 
         static void ptb2()
